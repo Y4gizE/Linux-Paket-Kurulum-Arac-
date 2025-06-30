@@ -12,7 +12,7 @@ banner() {
   
   echo -e "${GREEN}"
   echo "╔═════════════════════════════════════════════╗"
-  echo "║     Linux Sunucu Kurulum Aracı (v1.0)       ║"
+  echo "║     Linux Paket Kurulum Aracı (v1.0)       ║"
   echo "╚═════════════════════════════════════════════╝"
   echo -e "${NC}"
 }
